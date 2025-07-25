@@ -1,0 +1,73 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>LOL_abilities_sound</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Images\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="config.json" />
+    <None Remove="Images\backIcon.png" />
+    <None Remove="Images\deleteIcon.png" />
+    <None Remove="Images\E_square.png" />
+    <None Remove="Images\logo.png" />
+    <None Remove="Images\Q_square.png" />
+    <None Remove="Images\R_square.png" />
+    <None Remove="Images\saveIcon.png" />
+    <None Remove="Images\W_square.png" />
+    <None Remove="noIcon.png" />
+    <None Remove="noPhotoSplash.jpg" />
+    <None Remove="notInGameSplash.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="config.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\backIcon.png" />
+    <EmbeddedResource Include="Images\deleteIcon.png" />
+    <EmbeddedResource Include="Images\E_square.png" />
+    <EmbeddedResource Include="Images\logo.png" />
+    <EmbeddedResource Include="Images\noIcon.png" />
+    <EmbeddedResource Include="Images\noPhotoSplash.jpg" />
+    <EmbeddedResource Include="Images\notInGameSplash.jpg" />
+    <EmbeddedResource Include="Images\Q_square.png" />
+    <EmbeddedResource Include="Images\R_square.png" />
+    <EmbeddedResource Include="Images\saveIcon.png" />
+    <EmbeddedResource Include="Images\W_square.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LeagueToolkit" Version="4.0.0-beta.52" />
+    <PackageReference Include="ModernWpfUI" Version="0.9.7-preview.2" />
+    <PackageReference Include="MouseKeyHook" Version="5.7.1" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Management" Version="9.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Bass.Net">
+      <HintPath>Bass.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="last_champions.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="sounds_config.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

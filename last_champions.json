@@ -1,0 +1,862 @@
+{
+  "-1": {
+    "Item1": "Нет",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/-1.png",
+    "Item3": ""
+  },
+  "1": {
+    "Item1": "Энни",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/1.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Annie/Skins/Base/AnnieLoadScreen.jpg"
+  },
+  "2": {
+    "Item1": "Олаф",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/2.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Olaf/Skins/Base/OlafLoadScreen.jpg"
+  },
+  "3": {
+    "Item1": "Галио",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/3.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Galio/Skins/Base/GalioLoadscreen.jpg"
+  },
+  "4": {
+    "Item1": "Твистед Фэйт",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/4.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/TwistedFate/skins/base/TwistedFateLoadScreen.jpg"
+  },
+  "5": {
+    "Item1": "Ксин Жао",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/5.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/XinZhao/Skins/Base/XinZhaoLoadScreen.jpg"
+  },
+  "6": {
+    "Item1": "Ургот",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/6.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Urgot/Skins/Base/UrgotLoadScreen.jpg"
+  },
+  "7": {
+    "Item1": "Ле Блан",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/7.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Leblanc/Skins/Base/LeblancLoadScreen_0.Leblanc_Rework.jpg"
+  },
+  "8": {
+    "Item1": "Владимир",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/8.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Vladimir/Skins/Base/VladimirLoadScreen.jpg"
+  },
+  "9": {
+    "Item1": "Фиддлстикс",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/9.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Fiddlesticks/Skins/Base/FiddleSticksLoadscreen.jpg"
+  },
+  "10": {
+    "Item1": "Кейл",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/10.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Kayle/Skins/Base/KayleLoadscreen.jpg"
+  },
+  "11": {
+    "Item1": "Мастер Йи",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/11.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/MasterYi/Skins/Base/MasterYiLoadScreen.jpg"
+  },
+  "12": {
+    "Item1": "Алистар",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/12.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Alistar/Skins/Base/AlistarLoadScreen.jpg"
+  },
+  "13": {
+    "Item1": "Райз",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/13.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Ryze/Skins/Base/RyzeLoadScreen.jpg"
+  },
+  "14": {
+    "Item1": "Сион",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/14.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Sion/Skins/Base/SionLoadScreen.jpg"
+  },
+  "15": {
+    "Item1": "Сивир",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/15.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Sivir/Skins/Base/SivirLoadscreen_0.jpg"
+  },
+  "16": {
+    "Item1": "Сорака",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/16.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Base/SorakaLoadScreen.jpg"
+  },
+  "17": {
+    "Item1": "Тимо",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/17.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Teemo/Skins/Base/TeemoLoadScreen_0.ASU_Teemo.jpg"
+  },
+  "18": {
+    "Item1": "Тристана",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/18.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Tristana/Skins/Base/TristanaLoadScreen.jpg"
+  },
+  "19": {
+    "Item1": "Варвик",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/19.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Warwick/Skins/Base/WarwickLoadscreen.jpg"
+  },
+  "20": {
+    "Item1": "Нуну и Виллумп",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/20.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Nunu/Skins/Base/NunuLoadscreen.jpg"
+  },
+  "21": {
+    "Item1": "Мисс Фортуна",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/21.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/MissFortune/Skins/Base/MissFortuneLoadScreen.jpg"
+  },
+  "22": {
+    "Item1": "Эш",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/22.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Ashe/Skins/Base/AsheLoadScreen.jpg"
+  },
+  "23": {
+    "Item1": "Триндамир",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/23.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Tryndamere/Skins/Base/TryndamereLoadScreen.jpg"
+  },
+  "24": {
+    "Item1": "Джакс",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/24.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Jax/Skins/Base/JaxLoadscreen_0.jpg"
+  },
+  "25": {
+    "Item1": "Моргана",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/25.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Morgana/Skins/Base/MorganaLoadscreen.jpg"
+  },
+  "26": {
+    "Item1": "Зилеан",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/26.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Zilean/Skins/Base/ZileanLoadScreen.jpg"
+  },
+  "27": {
+    "Item1": "Синджед",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/27.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Singed/Skins/Base/SingedLoadScreen.jpg"
+  },
+  "28": {
+    "Item1": "Эвелинн",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/28.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Evelynn/Skins/Base/evelynnLoadScreen.jpg"
+  },
+  "29": {
+    "Item1": "Твич",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/29.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Twitch/Skins/Base/TwitchLoadScreen.jpg"
+  },
+  "30": {
+    "Item1": "Картус",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/30.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Karthus/Skins/Base/KarthusLoadScreen.jpg"
+  },
+  "31": {
+    "Item1": "Чо'Гат",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/31.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Chogath/skins/base/ChogathLoadScreen.jpg"
+  },
+  "32": {
+    "Item1": "Амуму",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/32.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Amumu/Skins/Base/AmumuLoadScreen.jpg"
+  },
+  "33": {
+    "Item1": "Раммус",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/33.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Rammus/skins/base/RammusLoadScreen.jpg"
+  },
+  "34": {
+    "Item1": "Анивия",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/34.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Anivia/Skins/Base/AniviaLoadScreen.jpg"
+  },
+  "35": {
+    "Item1": "Шако",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/35.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Shaco/Skins/Base/ShacoLoadScreen.jpg"
+  },
+  "36": {
+    "Item1": "Доктор Мундо",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/36.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/DrMundo/Skins/Base/DrMundoLoadscreen_0.jpg"
+  },
+  "37": {
+    "Item1": "Сона",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/37.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Sona/Skins/Base/SonaLoadScreen.jpg"
+  },
+  "38": {
+    "Item1": "Кассадин",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/38.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Kassadin/Skins/Base/KassadinLoadscreen_0.jpg"
+  },
+  "39": {
+    "Item1": "Ирелия",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/39.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Irelia/Skins/Base/IreliaLoadscreen.jpg"
+  },
+  "40": {
+    "Item1": "Жанна",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/40.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Base/JannaLoadScreen.jpg"
+  },
+  "41": {
+    "Item1": "Гангпланк",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/41.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Gangplank/Skins/Base/GangplankLoadScreen.jpg"
+  },
+  "42": {
+    "Item1": "Корки",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/42.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Corki/Skins/Base/CorkiLoadScreen.jpg"
+  },
+  "43": {
+    "Item1": "Карма",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/43.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Karma/Skins/Base/KarmaLoadScreen.jpg"
+  },
+  "44": {
+    "Item1": "Тарик",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/44.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Taric/Skins/Base/TaricLoadScreen.jpg"
+  },
+  "45": {
+    "Item1": "Вейгар",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/45.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Veigar/Skins/Base/VeigarLoadScreen.jpg"
+  },
+  "48": {
+    "Item1": "Трандл",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/48.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Trundle/Skins/Base/TrundleLoadScreen.jpg"
+  },
+  "50": {
+    "Item1": "Свейн",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/50.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Swain/Skins/Base/SwainLoadScreen.jpg"
+  },
+  "51": {
+    "Item1": "Кейтлин",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/51.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Caitlyn/Skins/Base/CaitlynLoadscreen_0.jpg"
+  },
+  "53": {
+    "Item1": "Блицкранк",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/53.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Blitzcrank/Skins/Base/BlitzcrankLoadScreen.jpg"
+  },
+  "54": {
+    "Item1": "Мальфит",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/54.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Malphite/Skins/Base/MalphiteLoadScreen.jpg"
+  },
+  "55": {
+    "Item1": "Катарина",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/55.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Katarina/Skins/Base/KatarinaLoadScreen.jpg"
+  },
+  "56": {
+    "Item1": "Ноктюрн",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/56.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Nocturne/Skins/Base/NocturneLoadScreen.jpg"
+  },
+  "57": {
+    "Item1": "Маокай",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/57.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Maokai/Skins/Base/MaokaiLoadScreen.jpg"
+  },
+  "58": {
+    "Item1": "Ренектон",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/58.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Renekton/Skins/Base/RenektonLoadScreen.jpg"
+  },
+  "59": {
+    "Item1": "Джарван IV",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/59.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/JarvanIV/Skins/Base/JarvanIVLoadScreen.jpg"
+  },
+  "60": {
+    "Item1": "Элиза",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/60.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Elise/Skins/Base/EliseLoadScreen.jpg"
+  },
+  "61": {
+    "Item1": "Орианна",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/61.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Orianna/Skins/Base/OriannaLoadscreen.jpg"
+  },
+  "62": {
+    "Item1": "Вуконг",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/62.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/MonkeyKing/Skins/Base/MonkeyKingLoadScreen.jpg"
+  },
+  "63": {
+    "Item1": "Брэнд",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/63.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Brand/Skins/Base/BrandLoadScreen.jpg"
+  },
+  "64": {
+    "Item1": "Ли Син",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/64.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/LeeSin/Skins/Base/LeeSinLoadScreen_0.jpg"
+  },
+  "67": {
+    "Item1": "Вейн",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/67.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Vayne/Skins/Base/VayneLoadScreen.jpg"
+  },
+  "68": {
+    "Item1": "Рамбл",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/68.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Rumble/Skins/Base/RumbleLoadScreen.jpg"
+  },
+  "69": {
+    "Item1": "Кассиопея",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/69.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Cassiopeia/Skins/Base/CassiopeiaLoadScreen.jpg"
+  },
+  "72": {
+    "Item1": "Скарнер",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/72.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Skarner/Skins/Base/SkarnerLoadScreen_0.jpg"
+  },
+  "74": {
+    "Item1": "Хеймердингер",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/74.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Heimerdinger/Skins/Base/HeimerdingerLoadScreen.jpg"
+  },
+  "75": {
+    "Item1": "Насус",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/75.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Nasus/Skins/Base/NasusLoadScreen.jpg"
+  },
+  "76": {
+    "Item1": "Нидали",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/76.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Nidalee/Skins/Base/nidaleeLoadScreen.jpg"
+  },
+  "77": {
+    "Item1": "Удир",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/77.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Udyr/Skins/Base/UdyrLoadscreen_0.jpg"
+  },
+  "78": {
+    "Item1": "Поппи",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/78.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Poppy/Skins/Base/PoppyLoadScreen.jpg"
+  },
+  "79": {
+    "Item1": "Грагас",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/79.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Gragas/Skins/Base/GragasLoadScreen.jpg"
+  },
+  "80": {
+    "Item1": "Пантеон",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/80.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Pantheon/Skins/Base/PantheonLoadscreen.jpg"
+  },
+  "81": {
+    "Item1": "Эзреаль",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/81.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Ezreal/Skins/Base/EzrealLoadScreen.jpg"
+  },
+  "82": {
+    "Item1": "Мордекайзер",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/82.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Mordekaiser/Skins/Base/MordekaiserLoadscreen.jpg"
+  },
+  "83": {
+    "Item1": "Йорик",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/83.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Base/YorickLoadScreen.jpg"
+  },
+  "84": {
+    "Item1": "Акали",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/84.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Akali/Skins/Base/AkaliLoadscreen.jpg"
+  },
+  "85": {
+    "Item1": "Кеннен",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/85.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Kennen/Skins/Base/KennenLoadScreen.jpg"
+  },
+  "86": {
+    "Item1": "Гарен",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/86.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Garen/Skins/Base/GarenLoadScreen.jpg"
+  },
+  "89": {
+    "Item1": "Леона",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/89.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Leona/Skins/Base/LeonaLoadScreen.jpg"
+  },
+  "90": {
+    "Item1": "Мальзахар",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/90.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Base/MalzaharLoadscreen.jpg"
+  },
+  "91": {
+    "Item1": "Талон",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/91.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Talon/Skins/Base/TalonLoadScreen.jpg"
+  },
+  "92": {
+    "Item1": "Ривен",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/92.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Base/RivenLoadScreen.jpg"
+  },
+  "96": {
+    "Item1": "Ког'Мао",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/96.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/KogMaw/Skins/Base/KogmawLoadScreen.jpg"
+  },
+  "98": {
+    "Item1": "Шен",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/98.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Shen/Skins/Base/ShenLoadScreen.jpg"
+  },
+  "99": {
+    "Item1": "Люкс",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/99.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Lux/Skins/Base/LuxLoadScreen.jpg"
+  },
+  "101": {
+    "Item1": "Зерат",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/101.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Xerath/Skins/Base/XerathLoadScreen.jpg"
+  },
+  "102": {
+    "Item1": "Шивана",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/102.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Shyvana/Skins/Base/ShyvanaLoadScreen.jpg"
+  },
+  "103": {
+    "Item1": "Ари",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/103.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Ahri/Skins/Base/AhriLoadscreen_0.jpg"
+  },
+  "104": {
+    "Item1": "Грейвз",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/104.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Graves/Skins/Base/GravesLoadScreen.jpg"
+  },
+  "105": {
+    "Item1": "Физз",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/105.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Fizz/Skins/Base/FizzLoadScreen.jpg"
+  },
+  "106": {
+    "Item1": "Волибир",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/106.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Volibear/Skins/Base/VolibearLoadscreen.jpg"
+  },
+  "107": {
+    "Item1": "Ренгар",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/107.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Rengar/Skins/Base/RengarLoadScreen.jpg"
+  },
+  "110": {
+    "Item1": "Варус",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/110.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Varus/Skins/Base/VarusLoadScreen.jpg"
+  },
+  "111": {
+    "Item1": "Наутилус",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/111.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Nautilus/Skins/Base/NautilusLoadScreen.jpg"
+  },
+  "112": {
+    "Item1": "Виктор",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/112.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Viktor/Skins/Base/ViktorLoadScreen_0.ViktorVGU.jpg"
+  },
+  "113": {
+    "Item1": "Седжуани",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/113.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Sejuani/Skins/Base/SejuaniLoadScreen.jpg"
+  },
+  "114": {
+    "Item1": "Фиора",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/114.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Base/FioraLoadScreen.jpg"
+  },
+  "115": {
+    "Item1": "Зиггс",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/115.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Ziggs/Skins/Base/ZiggsLoadScreen.jpg"
+  },
+  "117": {
+    "Item1": "Лулу",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/117.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Lulu/Skins/Base/LuluLoadScreen.jpg"
+  },
+  "119": {
+    "Item1": "Дрейвен",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/119.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Draven/Skins/Base/DravenLoadScreen.jpg"
+  },
+  "120": {
+    "Item1": "Гекарим",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/120.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Hecarim/Skins/Base/HecarimLoadscreen_0.jpg"
+  },
+  "121": {
+    "Item1": "Ка'Зикс",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/121.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/KhaZix/Skins/Base/KhazixLoadScreen.jpg"
+  },
+  "122": {
+    "Item1": "Дариус",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/122.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Darius/Skins/Base/DariusLoadScreen.jpg"
+  },
+  "126": {
+    "Item1": "Джейс",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/126.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Jayce/Skins/Base/JayceLoadScreen.jpg"
+  },
+  "127": {
+    "Item1": "Лиссандра",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/127.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Lissandra/Skins/Base/LissandraLoadScreen.jpg"
+  },
+  "131": {
+    "Item1": "Диана",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/131.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Diana/Skins/Base/DianaLoadScreen.jpg"
+  },
+  "133": {
+    "Item1": "Квинн",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/133.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Quinn/Skins/Base/QuinnLoadScreen.jpg"
+  },
+  "134": {
+    "Item1": "Синдра",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/134.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Syndra/Skins/Base/SyndraLoadScreen_0.jpg"
+  },
+  "136": {
+    "Item1": "Аурелион Сол",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/136.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/AurelionSol/Skins/Base/AurelionSolLoadScreen.jpg"
+  },
+  "141": {
+    "Item1": "Каин",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/141.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Kayn/Skins/Base/KaynLoadscreen.jpg"
+  },
+  "142": {
+    "Item1": "Зои",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/142.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Zoe/Skins/Base/ZoeLoadscreen.jpg"
+  },
+  "143": {
+    "Item1": "Зайра",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/143.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Zyra/Skins/Base/ZyraLoadScreen.jpg"
+  },
+  "145": {
+    "Item1": "Кай'Са",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/145.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Kaisa/Skins/Base/KaisaLoadscreen.jpg"
+  },
+  "147": {
+    "Item1": "Серафина",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/147.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Seraphine/Skins/Base/SeraphineLoadscreen.jpg"
+  },
+  "150": {
+    "Item1": "Гнар",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/150.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Gnar/Skins/Base/GnarLoadScreen.jpg"
+  },
+  "154": {
+    "Item1": "Зак",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/154.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Zac/Skins/Base/ZacLoadScreen.jpg"
+  },
+  "157": {
+    "Item1": "Ясуо",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/157.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Yasuo/Skins/Base/YasuoLoadScreen.jpg"
+  },
+  "161": {
+    "Item1": "Вел'Коз",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/161.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Velkoz/Skins/Base/VelkozLoadScreen.jpg"
+  },
+  "163": {
+    "Item1": "Талия",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/163.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Taliyah/Skins/Base/TaliyahLoadScreen.jpg"
+  },
+  "164": {
+    "Item1": "Камилла",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/164.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Camille/skins/base/CamilleLoadScreen.jpg"
+  },
+  "166": {
+    "Item1": "Акшан",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/166.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Akshan/Skins/Base/AkshanLoadScreen.jpg"
+  },
+  "200": {
+    "Item1": "Бел'Вет",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/200.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Belveth/Skins/Base/BelvethLoadscreen_0.jpg"
+  },
+  "201": {
+    "Item1": "Браум",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/201.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Braum/Skins/Base/BraumLoadScreen.jpg"
+  },
+  "202": {
+    "Item1": "Джин",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/202.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Jhin/Skins/Base/JhinLoadScreen.jpg"
+  },
+  "203": {
+    "Item1": "Киндред",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/203.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Kindred/skins/base/KindredLoadScreen.jpg"
+  },
+  "221": {
+    "Item1": "Зери",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/221.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Zeri/Skins/Base/ZeriLoadscreen_0.jpg"
+  },
+  "222": {
+    "Item1": "Джинкс",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/222.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Jinx/Skins/Base/JinxLoadScreen.jpg"
+  },
+  "223": {
+    "Item1": "Таам Кенч",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/223.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/TahmKench/Skins/Base/TahmKenchLoadScreen.jpg"
+  },
+  "233": {
+    "Item1": "Брайер",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/233.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Briar/Skins/Base/BriarLoadscreen_0.jpg"
+  },
+  "234": {
+    "Item1": "Виего",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/234.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Viego/Skins/Base/ViegoLoadscreen.jpg"
+  },
+  "235": {
+    "Item1": "Сенна",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/235.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Senna/Skins/Base/SennaLoadscreen.jpg"
+  },
+  "236": {
+    "Item1": "Люциан",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/236.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Lucian/Skins/Base/LucianLoadScreen.jpg"
+  },
+  "238": {
+    "Item1": "Зед",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/238.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Zed/Skins/Base/ZedLoadScreen.jpg"
+  },
+  "240": {
+    "Item1": "Клед",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/240.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Kled/Skins/Base/KledLoadScreen.jpg"
+  },
+  "245": {
+    "Item1": "Экко",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/245.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Ekko/Skins/Base/EkkoLoadScreen.jpg"
+  },
+  "246": {
+    "Item1": "Киана",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/246.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Qiyana/Skins/Base/QiyanaLoadscreen.jpg"
+  },
+  "254": {
+    "Item1": "Вай",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/254.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Vi/Skins/Base/ViLoadScreen.jpg"
+  },
+  "266": {
+    "Item1": "Атрокс",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/266.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Aatrox/Skins/Base/AatroxLoadscreen.jpg"
+  },
+  "267": {
+    "Item1": "Нами",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/267.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Base/NamiLoadScreen.jpg"
+  },
+  "268": {
+    "Item1": "Азир",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/268.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Azir/Skins/Base/AzirLoadScreen.jpg"
+  },
+  "350": {
+    "Item1": "Юми",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/350.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Yuumi/Skins/Base/YuumiLoadscreen.jpg"
+  },
+  "360": {
+    "Item1": "Самира",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/360.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Samira/Skins/Base/SamiraLoadscreen.jpg"
+  },
+  "412": {
+    "Item1": "Треш",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/412.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Thresh/Skins/Base/ThreshLoadScreen.jpg"
+  },
+  "420": {
+    "Item1": "Иллаой",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/420.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Illaoi/Skins/Base/IllaoiLoadScreen.jpg"
+  },
+  "421": {
+    "Item1": "Рек'Сай",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/421.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/RekSai/Skins/Base/RekSaiLoadScreen.jpg"
+  },
+  "427": {
+    "Item1": "Иверн",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/427.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Ivern/Skins/Base/IvernLoadScreen.jpg"
+  },
+  "429": {
+    "Item1": "Калиста",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/429.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Kalista/Skins/Base/KalistaLoadScreen.jpg"
+  },
+  "432": {
+    "Item1": "Бард",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/432.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Bard/Skins/Base/BardLoadScreen.jpg"
+  },
+  "497": {
+    "Item1": "Рэйкан",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/497.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Rakan/Skins/Base/RakanLoadScreen.jpg"
+  },
+  "498": {
+    "Item1": "Шая",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/498.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Xayah/Skins/Base/XayahLoadScreen.jpg"
+  },
+  "516": {
+    "Item1": "Орн",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/516.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Ornn/Skins/Base/OrnnLoadScreen.jpg"
+  },
+  "517": {
+    "Item1": "Сайлас",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/517.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Sylas/Skins/Base/SylasLoadscreen.jpg"
+  },
+  "518": {
+    "Item1": "Нико",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/518.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Neeko/Skins/Base/NeekoLoadscreen.jpg"
+  },
+  "523": {
+    "Item1": "Афелий",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/523.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Aphelios/Skins/Base/ApheliosLoadscreen.jpg"
+  },
+  "526": {
+    "Item1": "Релл",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/526.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Rell/Skins/Base/RellLoadscreen.jpg"
+  },
+  "555": {
+    "Item1": "Пайк",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/555.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Pyke/Skins/Base/PykeLoadscreen.jpg"
+  },
+  "711": {
+    "Item1": "Векс",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/711.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Vex/Skins/Base/VexLoadscreen_0.jpg"
+  },
+  "777": {
+    "Item1": "Ёнэ",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/777.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Yone/Skins/Base/YoneLoadscreen.jpg"
+  },
+  "799": {
+    "Item1": "Амбесса",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/799.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Ambessa/Skins/Base/AmbessaLoadScreen_0.Domina.jpg"
+  },
+  "800": {
+    "Item1": "Мэл",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/800.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Mel/Skins/Base/MelLoadScreen_0.Mel.jpg"
+  },
+  "804": {
+    "Item1": "Юнара",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/804.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Yunara/Skins/Base/YunaraLoadScreen_0.Yunara.jpg"
+  },
+  "875": {
+    "Item1": "Сетт",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/875.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Sett/Skins/Base/SettLoadscreen.jpg"
+  },
+  "876": {
+    "Item1": "Лиллия",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/876.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Lillia/Skins/Base/LilliaLoadscreen.jpg"
+  },
+  "887": {
+    "Item1": "Гвен",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/887.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Gwen/Skins/Base/GwenLoadscreen_0.jpg"
+  },
+  "888": {
+    "Item1": "Рената Гласк",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/888.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Renata/Skins/Base/RenataLoadscreen_0.jpg"
+  },
+  "893": {
+    "Item1": "Аврора",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/893.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Aurora/Skins/Base/AuroraLoadScreen_0.Aurora.jpg"
+  },
+  "895": {
+    "Item1": "Нила",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/895.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Nilah/Skins/Base/NilahLoadscreen_0.jpg"
+  },
+  "897": {
+    "Item1": "К'Санте",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/897.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/KSante/Skins/Base/KSanteLoadscreen_0.jpg"
+  },
+  "901": {
+    "Item1": "Смолдер",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/901.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Smolder/Skins/Base/SmolderLoadScreen_0.jpg"
+  },
+  "902": {
+    "Item1": "Милио",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/902.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Milio/Skins/Base/MilioLoadscreen_0.jpg"
+  },
+  "910": {
+    "Item1": "Хвэй",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/910.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Hwei/Skins/Skin0/HweiLoadScreen_0.jpg"
+  },
+  "950": {
+    "Item1": "Наафири",
+    "Item2": "/lol-game-data/assets/v1/champion-icons/950.png",
+    "Item3": "/lol-game-data/assets/ASSETS/Characters/Naafiri/Skins/Base/NaafiriLoadscreen_0.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+﻿<Page x:Class="LOL_abilities_sound.Pages.mainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LOL_abilities_sound.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="530"
+      Title="mainPage">
+
+    <StackPanel Orientation="Vertical">
+        <Image x:Name="logo" Height="200" Width="200"/>
+        <Button Content="Setup Ability Sounds" FontSize="20" FontWeight="Bold" Margin="0,10" HorizontalAlignment="Center" Click="Button_Click"/>
+        <Button Content="Settings" FontSize="20" FontWeight="Bold" Margin="0,10" HorizontalAlignment="Center" Click="Settings_Button_Click"/>
+    </StackPanel>
+</Page>

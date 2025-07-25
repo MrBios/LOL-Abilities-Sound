@@ -1,0 +1,72 @@
+<Page x:Class="LOL_abilities_sound.Pages.settingsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LOL_abilities_sound.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="530"
+      Title="settingsPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Image Name="back" Height="30" Width="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Cursor="Hand" MouseLeftButtonDown="back_MouseLeftButtonDown"/>
+        <Label Content="Settings" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" FontWeight="Bold" Foreground="{DynamicResource SystemControlForegroundBaseHighBrush}"/>
+        
+        <ScrollViewer Grid.Row="1" Padding="20">
+            <StackPanel Orientation="Vertical">
+                
+                <Border BorderBrush="Black" Background="{DynamicResource SystemControlPageBackgroundChromeLowBrush}" BorderThickness="1" CornerRadius="15" Padding="15" Margin="0,0,0,15">
+                    <StackPanel Orientation="Vertical">
+                        <Label Content="Output Volume" FontSize="16" FontWeight="Bold" Foreground="{DynamicResource SystemControlForegroundBaseHighBrush}" Margin="0,0,0,10"/>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="60"/>
+                            </Grid.ColumnDefinitions>
+                            <Slider x:Name="outputVolumeSlider" Grid.Column="0" Minimum="0" Maximum="1" Value="1" TickFrequency="0.1" IsSnapToTickEnabled="True" ValueChanged="outputVolumeSlider_ValueChanged"/>
+                            <TextBox x:Name="outputVolumeText" Grid.Column="1" Text="100%" HorizontalAlignment="Center" VerticalAlignment="Center" IsReadOnly="True" BorderThickness="0" Background="Transparent" FontWeight="Bold"/>
+                        </Grid>
+                    </StackPanel>
+                </Border>
+
+                <Border BorderBrush="Black" Background="{DynamicResource SystemControlPageBackgroundChromeLowBrush}" BorderThickness="1" CornerRadius="15" Padding="15" Margin="0,0,0,15">
+                    <StackPanel Orientation="Vertical">
+                        <Label Content="Self Volume" FontSize="16" FontWeight="Bold" Foreground="{DynamicResource SystemControlForegroundBaseHighBrush}" Margin="0,0,0,10"/>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="60"/>
+                            </Grid.ColumnDefinitions>
+                            <Slider x:Name="selfVolumeSlider" Grid.Column="0" Minimum="0" Maximum="1" Value="0.5" TickFrequency="0.1" IsSnapToTickEnabled="True" ValueChanged="selfVolumeSlider_ValueChanged"/>
+                            <TextBox x:Name="selfVolumeText" Grid.Column="1" Text="50%" HorizontalAlignment="Center" VerticalAlignment="Center" IsReadOnly="True" BorderThickness="0" Background="Transparent" FontWeight="Bold"/>
+                        </Grid>
+                    </StackPanel>
+                </Border>
+
+                <Border BorderBrush="Black" Background="{DynamicResource SystemControlPageBackgroundChromeLowBrush}" BorderThickness="1" CornerRadius="15" Padding="15" Margin="0,0,0,15">
+                    <StackPanel Orientation="Vertical">
+                        <Label Content="Microphone Input" FontSize="16" FontWeight="Bold" Foreground="{DynamicResource SystemControlForegroundBaseHighBrush}" Margin="0,0,0,10"/>
+                        <ComboBox x:Name="microphoneComboBox" 
+                                  SelectionChanged="microphoneComboBox_SelectionChanged"
+                                  MinHeight="25"
+                                  FontSize="12"
+                                  Padding="5"
+                                  Background="White"
+                                  Foreground="Black">
+                            <ComboBox.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Name}" Foreground="Black" FontSize="12"/>
+                                </DataTemplate>
+                            </ComboBox.ItemTemplate>
+                        </ComboBox>
+                    </StackPanel>
+                </Border>
+
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
