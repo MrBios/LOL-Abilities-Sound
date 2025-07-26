@@ -54,7 +54,10 @@ public class LcuApi
         if (phase != "InProgress")
             return (false, 0, (null, null, null));
 
-        Clipboard.SetText(session.ToString(Formatting.Indented));
+        // Removed Clipboard.SetText() call that was causing STA thread issues
+        // Debug output instead if needed for debugging
+        System.Diagnostics.Debug.WriteLine($"Game session data: {session.ToString(Formatting.Indented)}");
+        
         var teamOne = session["gameData"]?["teamOne"] as JArray;
         var teamTwo = session["gameData"]?["teamTwo"] as JArray;
         var allPlayers = teamOne?.Concat(teamTwo ?? new JArray()) ?? Enumerable.Empty<JToken>();
@@ -74,7 +77,19 @@ public class LcuApi
         Connect();
         if (!connected)
         {
-            return JsonConvert.DeserializeObject<Dictionary<string, (string, string, string)>>(File.ReadAllText("last_champions.json"));
+            try
+            {
+                if (File.Exists("last_champions.json"))
+                {
+                    return JsonConvert.DeserializeObject<Dictionary<string, (string, string, string)>>(File.ReadAllText("last_champions.json"));
+                }
+                return new Dictionary<string, (string, string, string)>();
+            }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine($"Error loading cached champions data: {ex.Message}");
+                return new Dictionary<string, (string, string, string)>();
+            }
         }
         else
         {
@@ -100,7 +115,15 @@ public class LcuApi
                 }
             }
 
-            File.WriteAllText("last_champions.json", JsonConvert.SerializeObject(dict, Formatting.Indented));
+            try
+            {
+                File.WriteAllText("last_champions.json", JsonConvert.SerializeObject(dict, Formatting.Indented));
+            }
+            catch (Exception ex)
+            {
+                System.Diagnostics.Debug.WriteLine($"Error saving champions data to cache: {ex.Message}");
+            }
+            
             return dict;
         }
     }
